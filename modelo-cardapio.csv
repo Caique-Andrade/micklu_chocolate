@@ -1,0 +1,7 @@
+nome,descricao,preco,foto,alt,disponivel,tag
+Morango no Chocolate,Morango fresco envolvido em creme artesanal e chocolate branco.,"R$ 12,00",images/produtos/morango-chocolate.webp,Bandeja de morangos cobertos com creme e chocolate branco,sim,Queridinho
+Brigadeiro Gourmet,Brigadeiro artesanal com acabamento delicado.,"R$ 5,00",images/produtos/brigadeiro.webp,Brigadeiros gourmet brancos com cobertura de chocolate,sim,Mais pedido
+Copo da Felicidade,"Camadas generosas de brownie, creme e chocolate.","R$ 18,00",images/produtos/copo-felicidade.webp,Copo da Felicidade com camadas de brownie e creme,sim,Sobremesa
+Brownie Recheado,Brownie intenso com creme e cobertura de chocolate.,"R$ 15,00",images/produtos/brownie.webp,Brownie recheado com cobertura de chocolate em embalagem,sim,Novidade
+Cookie Recheado,Cookie artesanal de massa macia com recheio cremoso.,"R$ 16,00",images/produtos/cookie.webp,Cookie recheado cortado ao meio mostrando o recheio,sim,Artesanal
+Presente Micklu,Chocolate artesanal embalado com carinho para presentear.,Sob consulta,images/galeria/galeria-05.webp,Cones de chocolate artesanal embalados para presente,sim,Encomenda
